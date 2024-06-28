@@ -40,7 +40,7 @@ const Biography = () => {
                   href={href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-thirty bg-primary rounded-full md:p-4 p-6 hover:bg-secundary"
+                  className="text-thirty bg-primary rounded-full sm:p-2 md:p-4 p-6 hover:bg-secundary"
                 >
                   <Icon size={40} />
                 </a>
@@ -53,7 +53,7 @@ const Biography = () => {
                   href={href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-thirty bg-primary rounded-full md:p-4 p-6 hover:bg-secundary"
+                  className="text-thirty bg-primary rounded-full sm:p-2 md:p-4 p-6 hover:bg-secundary"
                 >
                   <Icon size={40} />
                 </a>

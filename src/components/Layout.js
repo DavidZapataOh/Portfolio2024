@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
           <div className="text-2xl font-bold">DavidZO</div>
           <ul className="flex space-x-8 md:space-x-3 underline text-lg">
             <li>
-              <a href="#" className='hover:text-primary'>Home</a>
+              <a href="#" className='hover:text-primary sm:hidden'>Home</a>
             </li>
             <li>
               <a href="#biography" className='hover:text-primary'>About Me</a>
