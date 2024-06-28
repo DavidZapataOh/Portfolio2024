@@ -13,7 +13,7 @@ export default function Home() {
     <Layout>
       <Head>
         <title>David | Blockchain Developer</title>
-        <meta name="description" content="Portfolio de Sophie, una diseñadora UI/UX." />
+        <meta name="description" content="Portfolio de David, un desarrollador Web3." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section id="#">
