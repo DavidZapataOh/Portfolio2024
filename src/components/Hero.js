@@ -15,7 +15,7 @@ const Hero = () => {
   return (
     <section className="text-left md:px-20 px-60 py-20 bg-gradient-to-r from-dark via-thirty to-primary">
       <div className="container mx-auto flex flex-row lg:flex-col items-center">
-        <div className="flexmb-0 lg:mb-10">
+        <div className="flex-1 mb-0 lg:mb-10">
           <h1 className="text-5xl lg:text-3xl font-bold mb-4">Hello, I'm <span className="text-primary">David</span></h1>
           <p className="text-2xl lg:text-xl mb-0">Blockchain Developer &</p>
           <p className="text-2xl lg:text-xl mb-8">Avalanche Ambassador</p>
