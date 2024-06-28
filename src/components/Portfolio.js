@@ -128,7 +128,7 @@ const projects = [
         color: "text-pink-500",
       },
     ],
-    image: "/portfolio/tripguide.png",
+    image: "/portfolio/experia.png",
     source_code_link: "https://github.com/0xluisrico/Avalanche-bogota",
   },
 ];
