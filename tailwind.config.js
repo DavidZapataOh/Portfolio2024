@@ -12,7 +12,36 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors:{
+        dark: "#05000c",
+        light: "#f5f5f5",
+        primary: "#59ffa0",
+        secundary: "#ff17aa",
+        thirty: "#231e1f",
+      },
     },
+    screens:{
+      "2xl": { max: "1535px" },
+      // => @media (max-width: 1535px) { ... }
+
+      xl: { max: "1279px" },
+      // => @media (max-width: 1279px) { ... }
+
+      lg: { max: "1023px" },
+      // => @media (max-width: 1023px) { ... }
+
+      md: { max: "767px" },
+      // => @media (max-width: 767px) { ... }
+
+      sm: { max: "639px" },
+      // => @media (max-width: 639px) { ... }
+
+      xs: { max: "479px" },
+      // => @media (max-width: 479px) { ... }
+    }
   },
   plugins: [],
 }
+{/*}
+Por qué estudiar Blockchain
+Empresas que usan Blockchain{*/}
